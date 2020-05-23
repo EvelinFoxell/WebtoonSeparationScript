@@ -19,7 +19,7 @@ In the terminal/commandline run the following:
 
 E.g. for a mac with python 2 and 3 installed:
 
-   python3 WebtoonSeparationScript.py chapter1.png
+    python3 WebtoonSeparationScript.py chapter1.png
 
 ### Output
 
